@@ -4,3 +4,4 @@ library(shiny)
 runExample("01_hello")
 test_value <- "Test Value"
 test_number <- 14
+test_again <- 5
